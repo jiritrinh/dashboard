@@ -317,13 +317,14 @@ h3 {
     gap: 10px;
     padding-left: 20px;
     padding-top: 10px;
+    padding-right: 20px;
 }
 
 .trending-navbar li {
     display:flex;
     flex-direction: row;
-    gap: 8px;
-    justify-items: center;
+    gap: 12px;
+    align-items: center;
 }
 
 .tag {
